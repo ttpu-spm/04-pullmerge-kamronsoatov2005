@@ -26,5 +26,5 @@ This assignment introduces you how to _Review Pull Requests_ and _Resolve Merge 
 ## Course Repository URLs
 
 _Here you should put the URL of your final repository after finishing the given tutorial_
-- Review Pull Requests:   _REPO LINK_
-- Resolve Merge Conflicts: _REPO LINK_
+- Review Pull Requests:   [_REPO LINK_](https://github.com/kamronsoatov2005/skills-review-pull-requests)
+- Resolve Merge Conflicts: [_REPO LINK_](https://github.com/kamronsoatov2005/skills-resolve-merge-conflicts)
